@@ -9,7 +9,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
-<img align="right" src="https://github.com/TenzinTsundue/TenzinTsundue/blob/main/static/undraw_developer.svg">
+<img align="right" width="250px" src="https://github.com/TenzinTsundue/TenzinTsundue/blob/main/static/undraw_developer.svg">
 
 ### Languages and Tools:
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>
