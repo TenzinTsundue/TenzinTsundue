@@ -2,12 +2,14 @@
 
 [![Website](https://img.shields.io/website?label=codeWithTenzin.com&style=for-the-badge&url=https%3A%2F%2Fcodewithtenzin.com)](https://codewithtenzin.com)
 
-## I'm a Data Scientist and a Web Developer!
+### I'm a Data Scientist and a Web Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
+
+[](https://github.com/TenzinTsundue/TenzinTsundue/blob/main/static/undraw_developer.svg)
 
 ### Languages and Tools:
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>
