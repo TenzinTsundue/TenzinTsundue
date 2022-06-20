@@ -1,4 +1,4 @@
-## Hi there, I'm Tenzin Tsundue <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+## Hi there, I'm Tenzin Tsundue <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> 
 
 [![Website](https://img.shields.io/website?label=codeWithTenzin.com&style=for-the-badge&url=https%3A%2F%2Fcodewithtenzin.com)](https://codewithtenzin.com)
 <img align="right" width="350px" margin = "20px" src="https://github.com/TenzinTsundue/TenzinTsundue/blob/main/static/undraw_developer.svg">
