@@ -3,12 +3,13 @@
 [![Website](https://img.shields.io/website?label=codeWithTenzin.com&style=for-the-badge&url=https%3A%2F%2Fcodewithtenzin.com)](https://codewithtenzin.com)
 <img align="right" width="350px" margin = "20px" src="https://github.com/TenzinTsundue/TenzinTsundue/blob/main/static/undraw_developer.svg">
 
-### I'm a Data Scientist and a Web Developer!
+### I'm a Data Analyst!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar
+- Proficient in data cleaning, manipulation, and analyzing
+- Skilled in data visualization and dashboard creation with Tableau 
+- Experienced in statistical analysis and modeling with Python libraries
+- Knowledgeable in machine learning algorithms and techniques for predictive modeling
+- Continuously learning and staying up-to-date with industry trends and tools for data analysis.
 
 
 ### Languages and Tools:
