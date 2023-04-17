@@ -15,7 +15,7 @@
 ### Languages and Tools:
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>
 <img align="left" alt="r" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg"/>
-<img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
+<img align="left" alt="sql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"/>
 <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"/>
 
