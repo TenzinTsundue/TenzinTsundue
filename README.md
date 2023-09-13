@@ -1,6 +1,6 @@
 ## Hi there, I'm Tenzin Tsundue 👋
 
-[![Website](https://img.shields.io/website?label=codeWithTenzin.com&style=for-the-badge&url=https%3A%2F%2Fcodewithtenzin.com)](https://codewithtenzin.com)
+[![Website](https://img.shields.io/website?label=codeWithTenzin.com&style=for-the-badge&url=https%3A%2F%2Fcodewithtenzin.com)]([https://codewithtenzin.com](https://tenzintsundue.github.io/tentsun-portfolio/))
 <img align="right" width="350px" margin = "20px" src="https://github.com/TenzinTsundue/TenzinTsundue/blob/main/static/undraw_developer.svg">
 
 ### I'm a Data Analyst!
