@@ -34,7 +34,7 @@
 
 <br><br>
 
-**Python | R | SQL | Exccel | Tableau | Power BI | Jupyter Notebook | Apache Hadoop | Apache Spark | Matlab | Git | SAS | TensorFlow | Microsoft Azure ML** <br>
+**Python | R | SQL | Excel | Tableau | Power BI | Jupyter Notebook | Apache Hadoop | Apache Spark | Matlab | Git | SAS | TensorFlow | Microsoft Azure ML** <br>
 ### Connect with me:
 
 <a href="https://www.twitter.com/tentsun12"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/TenzinTsundue"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/tentsun12/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
